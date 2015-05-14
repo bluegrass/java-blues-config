@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <integer-node>10</integer-node>
+    <composite-node>
+        <string-node>text</string-node>
+        <composite-node>
+            <integer-node>5</integer-node>
+            <string-node>text</string-node>
+        </composite-node>            
+    </composite-node>
+    <prototype-node>
+        <string-node>text-1</string-node>
+        <integer-node>1</integer-node>
+    </prototype-node>
+    <prototype-node>
+        <string-node>text-2</string-node>
+        <integer-node>2</integer-node>
+    </prototype-node>    
+</root>

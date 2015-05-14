@@ -1,0 +1,11 @@
+integer-node: 10
+composite-node:
+    string-node: text
+    composite-node:
+      integer-node: 5
+      string-node: text
+prototype-node:
+    - string-node: text-1
+      integer-node: 1
+    - string-node: text-2
+      integer-node: 2
